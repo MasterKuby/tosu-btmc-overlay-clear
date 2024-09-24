@@ -1,6 +1,6 @@
 # Epic BMC tosu overlay
 
-A fork of a tosu overlay created and designed for BTMC (twitch.tv/BTMC) by happpy24
+A fork for Niscoro of a tosu overlay created and designed for BTMC (twitch.tv/BTMC) by happpy24
 
 ### Find tosu here: https://github.com/KotRikD/tosu
 
