@@ -1,7 +1,14 @@
 Usecase: ingame, obs-overlay
-Name: BTMC-Overlay by Happy_24
-Author: Happy_24
+Name: BTMC-Overlay-Clear
+Author: Happy_24, MasterKuby
 CompatibleWith: tosu
 Resolution: 584 x 184
-authorLinks: https://github.com/happpy24, https://twitter.com/happpy24
-Notes: created for BTMC with love <3
+authorLinks: https://github.com/happpy24, https://twitter.com/happpy24, https://github.com/masterkuby
+Notes: created for BTMC and https://twitch.tv/niscoro with love <3
+This is a Fork of the original tosu-btmc-overlay
+i've never done open-source things before so forgive me
+
+
+
+
+
