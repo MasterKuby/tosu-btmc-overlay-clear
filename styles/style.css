@@ -4,10 +4,10 @@
 }
 
 :root {
-    --gradientColor1: #1D3860;
-    --gradientColor2: #072045;
-    --dashedLineColor: #254982;
-    --outlineColor: #F3F589;
+    --gradientColor1: #1e1e1e;
+    --gradientColor2: #1e1e1e;
+    --dashedLineColor: #ffffff;
+    --outlineColor: #191919;
     --hunderdColor: #6EF063;
     --fiftyColor: #F0E263;
     --missColor: #F06363;
