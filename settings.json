@@ -5,7 +5,7 @@
         "title": "Disable Graph",
         "description": "Disable the strain graph.",
         "options": "Enabled, Disabled",
-        "value": "Enabled"
+        "value": "Disabled"
     },
     {
         "uniqueID": "GraphSmoothing",
@@ -32,7 +32,7 @@
             "Right",
             "None"
         ],
-        "value": "Top"
+        "value": "None"
     },
     {
         "uniqueID": "GraphColor",
@@ -46,28 +46,28 @@
         "type": "color",
         "title": "Gradient Color 1",
         "description": "Change the top gradient color of the background.",
-        "value": "#1D3860"
+        "value": "#1e1e1e"
     },
     {
         "uniqueID": "GradientColor2",
         "type": "color",
         "title": "Gradient Color 2",
         "description": "Change the bottom gradient color of the background.",
-        "value": "#072045"
+        "value": "#1e1e1e"
     },
     {
         "uniqueID": "OutlineColor",
         "type": "color",
         "title": "Outline Color",
         "description": "Change the color of the outline.",
-        "value": "#F3F589"
+        "value": "#191919"
     },
     {
         "uniqueID": "DashedLinesColor",
         "type": "color",
         "title": "Dashed Lines Color",
         "description": "Change the color of the dashed lines.",
-        "value": "#254982"
+        "value": "#ffffff"
     },
     {
         "uniqueID": "100Color",
