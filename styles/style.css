@@ -177,11 +177,6 @@
 	padding-left: 5px;
 	padding-right: 5px;
     border-radius: 20px;
-	transition: ease-in-out 300ms;
-    -webkit-filter: drop-shadow(-2px 2px 4px rgba(0,0,0,0.7));
-    -moz-filter: drop-shadow(-2px 2px 4px rgba(0,0,0,0.7));
-    -ms-filter: drop-shadow(-2px 2px 4px rgba(0,0,0,0.7));
-    -o-filter: drop-shadow(-2px 2px 4px rgba(0,0,0,0.7));
 }
 
 
@@ -397,15 +392,4 @@ svg {
     width: 75px;
     border: 2px dashed var(--dashedLineColor);
     z-index: 10;
-}
-
-.dashed-line-horizontal {
-    position: absolute;
-    right: 10px;
-    top: 55%;
-    transform: translateY(-50%);
-    width: 216px;
-    border: 2px dashed var(--dashedLineColor);
-    z-index: 10;
-    transition: ease-in-out 500ms;
 }
